@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml.cs" line="174" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4fb9bd15-ce01-4415-9e79-6826773f5a77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/DelaunayVoronoi/Delaunay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DelaunayVoronoi/Delaunay.cs" afterDir="false" />
@@ -20,26 +23,214 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Delaunay.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="230">
+              <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
               <folding>
-                <marker date="1575280358541" expanded="true" signature="6:225" ph="..." />
-                <marker date="1575280358541" expanded="true" signature="252:4101" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="292:4099" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="484:1358" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="1123:1320" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="1428:2549" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="1611:2481" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="1808:2145" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="1944:2127" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="2201:2410" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="2281:2392" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="2625:3181" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="2751:3022" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="3231:3670" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="3254:3349" ph="/* 1  -&gt; maxX ... */" />
-                <marker date="1575280358541" expanded="true" signature="3883:4093" ph="{...}" />
-                <marker date="1575280358541" expanded="true" signature="3941:4083" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="6:280" ph="..." />
+                <marker date="1575489742321" expanded="true" signature="307:5288" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="347:5286" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="641:2526" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="1259:2488" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="1376:1678" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="1806:2043" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="2171:2317" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="2596:3731" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="2793:3663" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="2990:3327" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="3126:3309" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="3383:3592" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="3463:3574" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="3807:4363" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="3933:4204" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="4413:4852" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="4436:4531" ph="/* 1  -&gt; maxX ... */" />
+                <marker date="1575489742321" expanded="true" signature="5070:5280" ph="{...}" />
+                <marker date="1575489742321" expanded="true" signature="5128:5270" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/RandomGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+              <folding>
+                <marker date="1575489709932" expanded="true" signature="6:111" ph="..." />
+                <marker date="1575489709932" expanded="true" signature="131:1257" ph="{...}" />
+                <marker date="1575489709932" expanded="true" signature="174:1250" ph="{...}" />
+                <marker date="1575489709932" expanded="true" signature="270:590" ph="{...}" />
+                <marker date="1575489709932" expanded="true" signature="726:795" ph="{...}" />
+                <marker date="1575489709932" expanded="true" signature="804:918" ph="/// Generates a random point inside the circle with specified radius. ... " />
+                <marker date="1575489709932" expanded="true" signature="989:1243" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="674">
+              <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+              <folding>
+                <marker date="1575478943736" expanded="true" signature="0:5216" ph="&lt;&lt;Canvas x:Name=&quot;Canvas&quot; Margin=&quot;0,0,4,-19&quot; Height=&quot;641&quot; VerticalAlignment=&quot;Bottom&quot; &gt;&#10;        &lt;Canvas x:Name=&quot;FieldCanvas&quot; Height=&quot;631&quot; Canvas.Left=&quot;105&quot; Width=&quot;598&quot;&gt;&#10;            &lt;lcub:LightningChartUltimate RenderTransformOrigin=&quot;0.003,0.991&quot; Height=&quot;600&quot; Width=&quot;600&quot; ColorTheme=&quot;SkyBlue&quot; Foreground=&quot;White&quot; Background=&quot;White&quot;&gt;&#10;                &lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt;&#10;                &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt;&#10;                &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;&#10;            &lt;/lcub:LightningChartUltimate&gt;&#10;        &lt;/Canvas&gt;&#10;        &lt;ListBox Height=&quot;215&quot; Width=&quot;105&quot; RenderTransformOrigin=&quot;0,0&quot; Background=&quot;Black&quot; Canvas.Top=&quot;30&quot;&gt;&#10;            &lt;ListBox.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/ListBox.RenderTransform&gt;&#10;            &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Button x:Name=&quot;Clear&quot; Content=&quot;Clear&quot; Width=&quot;75&quot; Click=&quot;Clear_Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Grid Width=&quot;74&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;&#10;                &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt;&#10;                &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt;&#10;                &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;TextBox Height=&quot;23&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;TextBox&quot; Width=&quot;75&quot;/&gt;&#10;            &lt;ComboBox Width=&quot;75&quot; SelectionChanged=&quot;ComboBox_Selected&quot;&gt;&#10;&#10;                &lt;TextBlock&gt;Guassian&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Random&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;&#10;            &lt;/ComboBox&gt;&#10;        &lt;/ListBox&gt;&#10;    &lt;/Canvas&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="663:5206" ph="&lt;&lt;Canvas x:Name=&quot;FieldCanvas&quot; Height=&quot;631&quot; Canvas.Left=&quot;105&quot; Width=&quot;598&quot;&gt;&#10;            &lt;lcub:LightningChartUltimate RenderTransformOrigin=&quot;0.003,0.991&quot; Height=&quot;600&quot; Width=&quot;600&quot; ColorTheme=&quot;SkyBlue&quot; Foreground=&quot;White&quot; Background=&quot;White&quot;&gt;&#10;                &lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt;&#10;                &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt;&#10;                &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;&#10;            &lt;/lcub:LightningChartUltimate&gt;&#10;        &lt;/Canvas&gt; &lt;ListBox Height=&quot;215&quot; Width=&quot;105&quot; RenderTransformOrigin=&quot;0,0&quot; Background=&quot;Black&quot; Canvas.Top=&quot;30&quot;&gt;&#10;            &lt;ListBox.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/ListBox.RenderTransform&gt;&#10;            &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Button x:Name=&quot;Clear&quot; Content=&quot;Clear&quot; Width=&quot;75&quot; Click=&quot;Clear_Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Grid Width=&quot;74&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;&#10;                &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt;&#10;                &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt;&#10;                &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;TextBox Height=&quot;23&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;TextBox&quot; Width=&quot;75&quot;/&gt;&#10;            &lt;ComboBox Width=&quot;75&quot; SelectionChanged=&quot;ComboBox_Selected&quot;&gt;&#10;&#10;                &lt;TextBlock&gt;Guassian&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Random&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;&#10;            &lt;/ComboBox&gt;&#10;        &lt;/ListBox&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="756:3689" ph="&lt;&lt;lcub:LightningChartUltimate RenderTransformOrigin=&quot;0.003,0.991&quot; Height=&quot;600&quot; Width=&quot;600&quot; ColorTheme=&quot;SkyBlue&quot; Foreground=&quot;White&quot; Background=&quot;White&quot;&gt;&#10;                &lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt;&#10;                &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt;&#10;                &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;&#10;            &lt;/lcub:LightningChartUltimate&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="841:3671" ph="&lt;&lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt; &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt; &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt; &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt; &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1007:1140" ph="&lt;&lt;lcub:ChartOptions/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1157:2439" ph="&lt;&lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1214:2385" ph="&lt;&lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt; &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt; &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt; &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt; &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt; &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt; &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1252:1387" ph="&lt;&lt;lcub:WallXY Visible=&quot;False&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1412:1545" ph="&lt;&lt;lcub:WallXY Visible=&quot;False&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1570:1707" ph="&lt;&lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1732:1865" ph="&lt;&lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="1890:2021" ph="&lt;&lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2046:2198" ph="&lt;&lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2223:2350" ph="&lt;&lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2456:2597" ph="&lt;&lt;lcub:Fill/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2614:2748" ph="&lt;&lt;lcub:ViewPolar/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2765:3628" ph="&lt;&lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2822:3574" ph="&lt;&lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt; &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt; &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2874:3277" ph="&lt;&lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2931:3223" ph="&lt;&lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="2985:3172" ph="&lt;&lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="3302:3408" ph="&lt;&lt;lcub:AxisY/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="3433:3539" ph="&lt;&lt;lcub:AxisX/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="3698:5192" ph="&lt;&lt;ListBox.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/ListBox.RenderTransform&gt; &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot; Height=&quot;20&quot;/&gt; &lt;Button x:Name=&quot;Clear&quot; Content=&quot;Clear&quot; Width=&quot;75&quot; Click=&quot;Clear_Click&quot; Height=&quot;20&quot;/&gt; &lt;Grid Width=&quot;74&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;&#10;                &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt;&#10;                &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt;&#10;                &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;&#10;            &lt;/Grid&gt; &lt;TextBox Height=&quot;23&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;TextBox&quot; Width=&quot;75&quot;/&gt; &lt;ComboBox Width=&quot;75&quot; SelectionChanged=&quot;ComboBox_Selected&quot;&gt;&#10;&#10;                &lt;TextBlock&gt;Guassian&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Random&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;&#10;            &lt;/ComboBox&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="3808:4122" ph="&lt;&lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="3850:4083" ph="&lt;&lt;ScaleTransform/&gt; &lt;SkewTransform AngleX=&quot;0&quot;/&gt; &lt;RotateTransform Angle=&quot;0&quot;/&gt; &lt;TranslateTransform X=&quot;0&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="4335:4856" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt; &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt; &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt; &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="4369:4577" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition/&gt; &lt;RowDefinition/&gt; &lt;RowDefinition/&gt;.../&gt;" />
+                <marker date="1575478943736" expanded="true" signature="4950:5173" ph="&lt;&lt;TextBlock&gt;Guassian&lt;/TextBlock&gt; &lt;TextBlock&gt;Random&lt;/TextBlock&gt; &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/ConcurrentHashSet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+              <folding>
+                <marker date="1575416136951" expanded="true" signature="6:123" ph="..." />
+                <marker date="1575416136951" expanded="true" signature="129:483" ph="/// Represents a thread-safe hash-based unique collection. ... " />
+                <marker date="1575416136951" expanded="true" signature="603:30385" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="948:1398" ph="/// Gets the number of items contained in the &lt;see ... " />
+                <marker date="1575416136951" expanded="true" signature="1423:1989" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="1449:1979" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="1553:1822" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="1702:1804" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="1846:1934" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="1999:2246" ph="/// Gets a value that indicates whether the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; is empty. ... " />
+                <marker date="1575416136951" expanded="true" signature="2274:2902" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="2300:2892" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="2373:2736" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="2522:2718" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="2602:2696" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="2760:2848" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="2912:3204" ph="/// Initializes a new instance of the &lt;see ... " />
+                <marker date="1575416136951" expanded="true" signature="3312:3332" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="3342:4214" ph="/// Initializes a new instance of the &lt;see ... " />
+                <marker date="1575416136951" expanded="true" signature="4343:4363" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="4373:5082" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+                <marker date="1575416136951" expanded="true" signature="5179:5199" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="5209:5676" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+                <marker date="1575416136951" expanded="true" signature="5817:5837" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="5847:6822" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+                <marker date="1575416136951" expanded="true" signature="6942:7102" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="7113:8359" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;  ... " />
+                <marker date="1575416136951" expanded="true" signature="8543:8703" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="8713:9741" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+                <marker date="1575416136951" expanded="true" signature="9905:9925" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="10047:11037" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="10261:10406" ph="/* The capacity should be at least as large as the concurrency level. Otherwise, we would have locks that don't g ... */" />
+                <marker date="1575416136951" expanded="true" signature="10451:10524" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="10630:10699" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="11047:11518" ph="/// Adds the specified item to the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;. ... " />
+                <marker date="1575416136951" expanded="true" signature="11629:11740" ph="/// Removes all items from the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;. ... " />
+                <marker date="1575416136951" expanded="true" signature="11768:12267" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="11829:12161" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="12181:12257" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="12277:12640" ph="/// Determines whether the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; contains the specified ... " />
+                <marker date="1575416136951" expanded="true" signature="12677:13513" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="12982:13141" ph="/* We can get away w/out a lock here. ... */" />
+                <marker date="1575416136951" expanded="true" signature="13249:13476" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="13353:13422" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="13523:13794" ph="/// Attempts to remove the item from the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;. ... " />
+                <marker date="1575416136951" expanded="true" signature="13832:15493" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="13923:15483" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="14184:14328" ph="/* If the table just got resized, we may not be holding the right lock, and must retry. ... */" />
+                <marker date="1575416136951" expanded="true" signature="14371:14449" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="14598:15420" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="14844:15354" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="14920:15072" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="15105:15227" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="15572:16200" ph="///Returns an enumerator that iterates through the &lt;see ... " />
+                <marker date="1575416136951" expanded="true" signature="16246:16752" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="16353:16742" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="16601:16728" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="16920:17982" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="17152:17876" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="17328:17418" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="17541:17813" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="17896:17972" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="18120:18416" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="18175:18274" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="18305:18406" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="18490:21643" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="18525:21633" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="18805:20733" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="18958:19102" ph="/* If the table just got resized, we may not be holding the right lock, and must retry. ... */" />
+                <marker date="1575416136951" expanded="true" signature="19145:19223" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="19431:19834" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="19674:19768" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="20184:20562" ph="/* If the number of elements guarded by this lock has exceeded the budget, resize the bucket table. ... */" />
+                <marker date="1575416136951" expanded="true" signature="20625:20715" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="20757:20888" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="20906:21479" ph="/* The fact that we got here means that we just performed an insertion. If necessary, we will grow the table. ... */" />
+                <marker date="1575416136951" expanded="true" signature="21514:21589" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="21712:21894" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="22022:22276" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="22323:27773" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="22435:27609" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="22734:23092" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="22773:23046" ph="/* We assume that since the table reference is different, it was already resized (or the budget ... */" />
+                <marker date="1575416136951" expanded="true" signature="23310:23405" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="23423:23545" ph="/* If the bucket array is too empty, double the budget instead of resizing the table ... */" />
+                <marker date="1575416136951" expanded="true" signature="23606:23842" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="23704:23796" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="23860:24077" ph="/* Compute the new table size. We find the smallest integer larger than twice the previous table size, and not di ... */" />
+                <marker date="1575416136951" expanded="true" signature="24179:25027" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="24449:24574" ph="/* Now, we only need to check odd integers, and find the first that is not divisible ... */" />
+                <marker date="1575416136951" expanded="true" signature="24669:24765" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="24881:24987" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="25069:25151" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="25191:25756" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="25279:25694" ph="/* We want to make sure that GrowTable will not be called again, since table is at the maximum size. ... */" />
+                <marker date="1575416136951" expanded="true" signature="26047:26410" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="26296:26392" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="26681:27347" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="26796:27329" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="27629:27763" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="27834:28221" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="27946:28076" ph="/* Now that we have lock 0, the _locks array will not change (i.e., grow), ... */" />
+                <marker date="1575416136951" expanded="true" signature="28315:28856" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="28483:28846" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="28556:28652" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="28676:28832" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="28729:28814" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="28927:29142" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="29056:29132" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="29198:29627" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="29304:29617" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="29406:29603" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="29657:30032" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="29883:30022" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="30060:30379" ph="{...}" />
+                <marker date="1575416136951" expanded="true" signature="30246:30369" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -48,27 +239,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Triangle.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="91" column="31" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
+            <state relative-caret-position="110">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
-                <marker date="1575235994980" expanded="true" signature="6:105" ph="..." />
-                <marker date="1575235994980" expanded="true" signature="132:3551" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="160:3549" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="384:977" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="410:967" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="530:918" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="619:847" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="720:825" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="1053:1629" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="1124:1266" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="1283:1425" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="1672:2520" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="2230:2304" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="2612:2808" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="2866:3182" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="2963:3126" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="3033:3112" ph="{...}" />
-                <marker date="1575235994980" expanded="true" signature="3304:3543" ph="{...}" />
+                <marker date="1575285313075" expanded="false" signature="6:105" ph="..." />
+                <marker date="1575285313075" expanded="true" signature="132:3498" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="160:3496" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="384:924" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="410:914" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="530:865" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="619:847" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="720:825" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="1000:1576" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="1071:1213" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="1230:1372" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="1619:2467" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="2177:2251" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="2559:2755" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="2813:3129" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="2910:3073" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="2980:3059" ph="{...}" />
+                <marker date="1575285313075" expanded="true" signature="3251:3490" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -77,14 +268,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Voronoi.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="32">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding>
-                <marker date="1575224072858" expanded="true" signature="60:620" ph="{...}" />
-                <marker date="1575224072858" expanded="true" signature="87:618" ph="{...}" />
-                <marker date="1575224072858" expanded="true" signature="184:612" ph="{...}" />
-                <marker date="1575224072858" expanded="true" signature="298:568" ph="{...}" />
-                <marker date="1575224072858" expanded="true" signature="387:554" ph="{...}" />
+                <marker date="1575416508198" expanded="true" signature="60:620" ph="{...}" />
+                <marker date="1575416508198" expanded="true" signature="87:618" ph="{...}" />
+                <marker date="1575416508198" expanded="true" signature="184:612" ph="{...}" />
+                <marker date="1575416508198" expanded="true" signature="298:568" ph="{...}" />
+                <marker date="1575416508198" expanded="true" signature="387:554" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,8 +284,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Point.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="80">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding>
                 <marker date="1575224072855" expanded="true" signature="6:47" ph="..." />
                 <marker date="1575224072855" expanded="true" signature="74:350" ph="{...}" />
@@ -108,52 +299,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="60">
+              <caret line="206" column="1" lean-forward="true" selection-start-line="206" selection-start-column="1" selection-end-line="206" selection-end-column="1" />
               <folding>
-                <marker date="1575239807711" expanded="true" signature="6:144" ph="..." />
-                <marker date="1575239807711" expanded="true" signature="171:3603" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="218:3601" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="378:587" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="630:1166" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="1226:1902" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="1278:1892" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="1978:2822" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="2105:2376" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="2417:2812" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="2887:3343" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="2944:3333" ph="{...}" />
-                <marker date="1575239807711" expanded="true" signature="3414:3595" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="6:658" ph="..." />
+                <marker date="1575479168840" expanded="true" signature="685:6914" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="718:779" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="824:6912" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="1186:1366" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="1409:2105" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="2181:2894" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="2405:2696" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="2486:2680" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="2961:4416" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="3345:3603" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="3426:3587" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="3972:4270" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="4510:5775" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="4857:5128" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="5169:5460" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="5250:5444" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="5846:6162" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="5929:6116" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="6231:6511" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="6314:6501" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="6585:6667" ph="{...}" />
+                <marker date="1575479168840" expanded="true" signature="6751:6906" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml">
+        <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/ObjectPool.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="146">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
               <folding>
-                <marker date="1575232053046" expanded="true" signature="0:659" ph="&lt;&lt;Canvas Name=&quot;Canvas&quot; Margin=&quot;10,0,20,20&quot; Height=&quot;421&quot; VerticalAlignment=&quot;Bottom&quot; &gt;&#10;        &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot;/&gt;&#10;    &lt;/Canvas&gt;.../&gt;" />
-                <marker date="1575232053046" expanded="true" signature="464:649" ph="&lt;&lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot;/&gt;.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Edge.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <marker date="1575214683515" expanded="true" signature="6:47" ph="..." />
-                <marker date="1575214683515" expanded="true" signature="74:819" ph="{...}" />
-                <marker date="1575214683515" expanded="true" signature="127:817" ph="{...}" />
-                <marker date="1575214683515" expanded="true" signature="256:334" ph="{...}" />
-                <marker date="1575214683515" expanded="true" signature="377:524" ph="{...}" />
-                <marker date="1575214683515" expanded="true" signature="564:811" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="6:174" ph="..." />
+                <marker date="1575294479602" expanded="true" signature="217:1522" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="266:1520" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="460:730" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="773:1162" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="944:1026" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="1043:1114" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="1201:1302" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="1338:1514" ph="{...}" />
+                <marker date="1575294479602" expanded="true" signature="1398:1460" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -172,20 +364,34 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/RandomGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/Poolable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/d6/74b9f9be/ReaderWriterLockSlim.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/e3/6d5356d7/Line.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/12/381b4a1d/XamlReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/db/c909956b/Ellipse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HappyUnity/Assets/HappyUnity/ObjectPools/ObjectPool.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/97/acf7bc3d/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/0b/bdca6637/Enum.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/3f/8347f6b9/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/b0/342fa17c/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/296681C2-4ECE-4A5B-9746-8F0C49412880/f4/3bdb9200/VisualCollection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/Triangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HappyUnity/Assets/HappyUnity/Math/HappyMath.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/e3/6d5356d7/Line.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/Point.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/22/8b5de3c1/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/80/4674f82c/Parallel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/e0/bd5f34c1/PlatformHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/3f/8347f6b9/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/42/a292ea4e/WpfXamlLoader.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/Delaunay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/c8/3e9b6b4b/Lookup`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa30428.2955/ConcurrentHashSet.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/Edge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/ConcurrentHashSet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/dc/bdbcc15b/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/42/145f1d17/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DelaunayVoronoi/Voronoi.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/1f/612b5fdc/ConcurrentDictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
@@ -194,12 +400,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DelaunayVoronoi/Edge.cs" />
-        <option value="$PROJECT_DIR$/DelaunayVoronoi/Voronoi.cs" />
         <option value="$PROJECT_DIR$/DelaunayVoronoi/Point.cs" />
-        <option value="$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml" />
         <option value="$PROJECT_DIR$/DelaunayVoronoi/Triangle.cs" />
-        <option value="$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/DelaunayVoronoi/ObjectPool.cs" />
         <option value="$PROJECT_DIR$/DelaunayVoronoi/ConcurrentHashSet.cs" />
+        <option value="$PROJECT_DIR$/DelaunayVoronoi/Voronoi.cs" />
+        <option value="$PROJECT_DIR$/DelaunayVoronoi/GaussianBlur.cs" />
+        <option value="$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/DelaunayVoronoi/RandomGenerator.cs" />
         <option value="$PROJECT_DIR$/DelaunayVoronoi/Delaunay.cs" />
       </list>
     </option>
@@ -212,10 +421,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="x" value="1912" />
+    <option name="y" value="1" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -235,12 +444,6 @@
               <item name="DelaunayVoronoi" type="24d0babc:SolutionExplorerModelNode" />
               <item name="DelaunayVoronoi" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="DelaunayVoronoi" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="DelaunayVoronoi" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="MainWindow.xaml" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -253,6 +456,8 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DelaunayVoronoi/ObjectPool.cs" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,12 +501,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575201139427</updated>
-      <workItem from="1575201144486" duration="34921000" />
+      <workItem from="1575201144486" duration="72756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34957000" />
+    <option name="totallyTimeSpent" value="72792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,23 +518,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-7" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32147652" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.104477614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Stacktrace" weight="0.32936078" />
+      <window_info anchor="bottom" id="Stacktrace" weight="0.3286119" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.32394367" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5222102" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3206934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.58829904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.6062323" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.601983" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -337,13 +541,13 @@
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32719547" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067115" side_tool="true" weight="0.3243626" />
       <window_info anchor="bottom" id="XAML Preview" order="15" weight="0.3286119" />
-      <window_info anchor="bottom" id="Build" order="16" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Build" order="16" visible="true" weight="0.32502708" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3295302" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +555,25 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DelaunayVoronoi/RandomGenerator.cs</url>
+          <line>35</line>
+          <properties documentPath="$PROJECT_DIR$/DelaunayVoronoi/RandomGenerator.cs" initialLine="35">
+            <startOffsets>
+              <option value="1220" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1233" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/42/145f1d17/Object.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -359,155 +582,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/e3/6d5356d7/Line.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/c8/3e9b6b4b/Lookup`2.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/22/8b5de3c1/Enumerable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6549" column="16" selection-start-line="6549" selection-start-column="16" selection-end-line="6549" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Edge.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <marker date="1575214683515" expanded="true" signature="6:47" ph="..." />
-            <marker date="1575214683515" expanded="true" signature="74:819" ph="{...}" />
-            <marker date="1575214683515" expanded="true" signature="127:817" ph="{...}" />
-            <marker date="1575214683515" expanded="true" signature="256:334" ph="{...}" />
-            <marker date="1575214683515" expanded="true" signature="377:524" ph="{...}" />
-            <marker date="1575214683515" expanded="true" signature="564:811" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-          <folding>
-            <marker date="1575232053046" expanded="true" signature="0:659" ph="&lt;&lt;Canvas Name=&quot;Canvas&quot; Margin=&quot;10,0,20,20&quot; Height=&quot;421&quot; VerticalAlignment=&quot;Bottom&quot; &gt;&#10;        &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot;/&gt;&#10;    &lt;/Canvas&gt;.../&gt;" />
-            <marker date="1575232053046" expanded="true" signature="464:649" ph="&lt;&lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot;/&gt;.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/12/381b4a1d/XamlReader.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="334" column="6" selection-start-line="334" selection-start-column="6" selection-end-line="334" selection-end-column="6" />
-          <folding>
-            <marker date="1575205632641" expanded="true" signature="0:373" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1575205632641" expanded="false" signature="381:789" ph="..." />
-            <marker date="1575205632641" expanded="true" signature="822:33571" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="827:1009" ph="///   Считывает входные данные XAML и создает граф объекта с помощью средства чтения XAML WPF по умолчанию и связ ... " />
-            <marker date="1575205632641" expanded="true" signature="1035:33569" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="2168:2506" ph="///   Считывает входные данные XAML в заданную текстовую строку и возвращает объект, соответствующий корню указан ... " />
-            <marker date="1575205632641" expanded="true" signature="2554:2655" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="2661:3196" ph="///   Считывает разметку XAML в заданную текстовую строку (с помощью указанного &lt;see cref=&quot;T:System.Windows.Marku ... " />
-            <marker date="1575205632641" expanded="true" signature="3273:3394" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="3400:3912" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает &lt;see cref=&quot;T:Syste ... " />
-            <marker date="1575205632641" expanded="true" signature="3957:4113" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="4119:4725" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.Xml.XmlReader&quot; /&gt; и возвращает объект, которы ... " />
-            <marker date="1575205632641" expanded="true" signature="4773:4956" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="4962:5764" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает объект, который яв ... " />
-            <marker date="1575205632641" expanded="true" signature="5838:6072" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="6078:6808" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает корневой объект со ... " />
-            <marker date="1575205632641" expanded="true" signature="6851:7172" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="7178:7955" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.Xml.XmlReader&quot; /&gt; и возвращает корневой объек ... " />
-            <marker date="1575205632641" expanded="true" signature="8001:8156" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="8162:9020" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает корневой объект со ... " />
-            <marker date="1575205632641" expanded="true" signature="9092:9634" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="9555:9611" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="9708:9960" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="10037:15393" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="10967:14470" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="11400:12025" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="11435:11565" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="13133:14462" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="13416:13607" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="13681:14194" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="13716:13831" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="13859:14182" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="14272:14350" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="14371:14452" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="14497:14728" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="14871:15184" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="15461:15541" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="15633:15705" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="15828:17281" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="15964:16583" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="16387:16539" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="16613:16827" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="16856:17064" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="17307:17367" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="17420:17637" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="17676:17769" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="17835:17888" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="17938:20317" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="17954:19649" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="18721:19641" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="19052:19416" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="19685:19748" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="19775:20065" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="20079:20311" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="20356:20938" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="20504:20680" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="20944:21090" ph="///   Прерывает текущую операцию асинхронной загрузки, если имеется отложенная асинхронная операция загрузки. ... " />
-            <marker date="1575205632641" expanded="true" signature="21120:21167" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="21173:21271" ph="///   Происходит по завершении асинхронной операции загрузки. ... " />
-            <marker date="1575205632641" expanded="true" signature="21405:21558" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="21462:21551" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="21679:22211" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="21814:22170" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="22293:22497" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="22568:22767" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="22844:22975" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="22902:22968" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="23047:23137" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="23063:23131" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="23211:23332" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="23227:23326" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="23338:23747" ph="///   Возвращает &lt;see cref=&quot;T:System.Xaml.XamlSchemaContext&quot; /&gt; представляющий параметры контекста схемы WPF для  ... " />
-            <marker date="1575205632641" expanded="true" signature="23805:23887" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="24014:24418" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="24508:24717" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="24841:24924" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="25085:27097" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="25613:26539" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="26566:26797" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="26811:27074" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="27194:28324" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="28330:28965" ph="///   Считывает входные данные XAML через предоставленный &lt;see cref=&quot;T:System.Xaml.XamlReader&quot; /&gt; и возвращает об ... " />
-            <marker date="1575205632641" expanded="true" signature="29026:29789" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="29159:29235" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="29262:29521" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="29535:29766" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="29977:32836" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="30300:32433" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="31132:31414" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="31156:31268" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="31299:31404" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="31447:31932" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="31630:31831" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="31849:31922" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="32447:32813" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="32880:33059" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="33132:33295" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="33221:33287" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="33390:33565" ph="{...}" />
-            <marker date="1575205632641" expanded="true" signature="33479:33545" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -518,83 +596,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/42/a292ea4e/WpfXamlLoader.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="120" column="10" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
-          <folding>
-            <marker date="1575236359865" expanded="true" signature="0:376" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1575236359865" expanded="false" signature="384:614" ph="..." />
-            <marker date="1575236359865" expanded="true" signature="647:15380" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="680:15378" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="968:1344" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="1605:1854" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="2046:2547" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="2648:3143" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="3384:6237" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="3646:4974" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="3776:4409" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="3968:4082" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="4699:4913" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="5208:5914" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="5941:6231" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="6055:6092" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="6105:6223" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="6622:13026" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="6660:13020" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="6871:12966" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="7459:7639" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="7750:8169" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="7861:8155" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="8690:11300" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="8851:11265" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="9000:11226" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="9234:11183" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="9333:11136" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="9406:11047" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="9875:10094" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="10398:10628" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="10798:10990" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="12142:12740" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="12331:12588" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="12405:12572" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="13221:14794" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="13682:14045" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="14187:14407" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="14418:14788" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="14957:15374" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="15077:15144" ph="{...}" />
-            <marker date="1575236359865" expanded="true" signature="15155:15368" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/1f/612b5fdc/ConcurrentDictionary`2.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="33" column="19" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <marker date="1575239807711" expanded="true" signature="6:144" ph="..." />
-            <marker date="1575239807711" expanded="true" signature="171:3603" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="218:3601" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="378:587" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="630:1166" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="1226:1902" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="1278:1892" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="1978:2822" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="2105:2376" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="2417:2812" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="2887:3343" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="2944:3333" ph="{...}" />
-            <marker date="1575239807711" expanded="true" signature="3414:3595" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,17 +810,341 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/ConcurrentHashSet.cs">
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Poolable.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="120" column="10" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
+        <state>
+          <folding>
+            <marker date="1570124225271" expanded="true" signature="6:91" ph="..." />
+            <marker date="1570124225271" expanded="true" signature="134:1872" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="236:1421" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="366:548" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="583:859" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="631:807" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="884:942" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="968:1050" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="1081:1133" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="1227:1415" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="1485:1542" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="1576:1612" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="1664:1870" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="1705:1766" ph="{...}" />
+            <marker date="1570124225271" expanded="true" signature="1804:1864" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/db/c909956b/Ellipse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/296681C2-4ECE-4A5B-9746-8F0C49412880/f4/3bdb9200/VisualCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="324" column="8" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HappyUnity/Assets/HappyUnity/ObjectPools/ObjectPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+          <folding>
+            <marker date="1570124276157" expanded="true" signature="6:105" ph="..." />
+            <marker date="1570124276157" expanded="true" signature="148:2385" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="197:1530" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="435:472" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="527:589" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="626:755" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="848:995" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="1076:1218" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="1273:1368" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="1390:1528" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="1574:2382" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="1671:1683" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="1745:1865" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="1949:2005" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="2035:2113" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="2157:2195" ph="{...}" />
+            <marker date="1570124276157" expanded="true" signature="2223:2380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Edge.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1575214683515" expanded="true" signature="6:47" ph="..." />
+            <marker date="1575214683515" expanded="true" signature="74:819" ph="{...}" />
+            <marker date="1575214683515" expanded="true" signature="127:817" ph="{...}" />
+            <marker date="1575214683515" expanded="true" signature="256:334" ph="{...}" />
+            <marker date="1575214683515" expanded="true" signature="377:524" ph="{...}" />
+            <marker date="1575214683515" expanded="true" signature="564:811" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/dc/bdbcc15b/ExecutionContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="352" column="8" selection-start-line="352" selection-start-column="8" selection-end-line="352" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/e3/6d5356d7/Line.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <marker date="1575224489218" expanded="true" signature="0:367" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1575224489218" expanded="true" signature="375:425" ph="..." />
+            <marker date="1575224489218" expanded="true" signature="458:5442" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="561:5440" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="570:832" ph="///   Идентифицирует свойство зависимостей &lt;see cref=&quot;P:System.Windows.Shapes.Line.X1&quot; /&gt;. ... " />
+            <marker date="1575224489218" expanded="true" signature="1181:1443" ph="///   Идентифицирует свойство зависимостей &lt;see cref=&quot;P:System.Windows.Shapes.Line.Y1&quot; /&gt;. ... " />
+            <marker date="1575224489218" expanded="true" signature="1792:2054" ph="///   Идентифицирует свойство зависимостей &lt;see cref=&quot;P:System.Windows.Shapes.Line.X2&quot; /&gt;. ... " />
+            <marker date="1575224489218" expanded="true" signature="2403:2665" ph="///   Идентифицирует свойство зависимостей &lt;see cref=&quot;P:System.Windows.Shapes.Line.Y2&quot; /&gt;. ... " />
+            <marker date="1575224489218" expanded="true" signature="3055:3328" ph="///   Возвращает или задает координату начальной точки &lt;see cref=&quot;T:System.Windows.Shapes.Line&quot; /&gt; по оси X. ... " />
+            <marker date="1575224489218" expanded="true" signature="3395:3571" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="3411:3483" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="3493:3565" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="3577:3856" ph="///   Получает или задает координату по оси Y для начальной точки &lt;see cref=&quot;T:System.Windows.Shapes.Line&quot; /&gt;. ... " />
+            <marker date="1575224489218" expanded="true" signature="3923:4099" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="3939:4011" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="4021:4093" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="4105:4374" ph="///   Получает или задает координату конечной точки &lt;see cref=&quot;T:System.Windows.Shapes.Line&quot; /&gt; по оси X. ... " />
+            <marker date="1575224489218" expanded="true" signature="4441:4617" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="4457:4529" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="4539:4611" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="4623:4892" ph="///   Получает или задает координату конечной точки &lt;see cref=&quot;T:System.Windows.Shapes.Line&quot; /&gt; по оси Y. ... " />
+            <marker date="1575224489218" expanded="true" signature="4959:5135" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="4975:5047" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="5057:5129" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="5185:5269" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="5201:5263" ph="{...}" />
+            <marker date="1575224489218" expanded="true" signature="5321:5436" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/42/a292ea4e/WpfXamlLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="116" column="26" lean-forward="true" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+          <folding>
+            <marker date="1575236359865" expanded="true" signature="0:376" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1575236359865" expanded="false" signature="384:614" ph="..." />
+            <marker date="1575236359865" expanded="true" signature="647:15380" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="680:15378" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="968:1344" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="1605:1854" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="2046:2547" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="2648:3143" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="3384:6237" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="3646:4974" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="3776:4409" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="3968:4082" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="4699:4913" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="5208:5914" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="5941:6231" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="6055:6092" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="6105:6223" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="6622:13026" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="6660:13020" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="6871:12966" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="7459:7639" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="7750:8169" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="7861:8155" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="8690:11300" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="8851:11265" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="9000:11226" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="9234:11183" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="9333:11136" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="9406:11047" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="9875:10094" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="10398:10628" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="10798:10990" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="12142:12740" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="12331:12588" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="12405:12572" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="13221:14794" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="13682:14045" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="14187:14407" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="14418:14788" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="14957:15374" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="15077:15144" ph="{...}" />
+            <marker date="1575236359865" expanded="true" signature="15155:15368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/ObjectPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <marker date="1575294479602" expanded="true" signature="6:174" ph="..." />
+            <marker date="1575294479602" expanded="true" signature="217:1522" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="266:1520" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="460:730" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="773:1162" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="944:1026" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="1043:1114" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="1201:1302" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="1338:1514" ph="{...}" />
+            <marker date="1575294479602" expanded="true" signature="1398:1460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa30428.2955/ConcurrentHashSet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="40" lean-forward="true" selection-end-line="750" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/e0/bd5f34c1/PlatformHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658271AA-00D0-42A5-A887-5350393FEE96/22/8b5de3c1/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="1838" column="39" selection-start-line="1838" selection-start-column="39" selection-end-line="1838" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/97/acf7bc3d/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="1148" column="17" selection-start-line="1148" selection-start-column="17" selection-end-line="1148" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01B60F1D-E92C-48E6-8F1A-412F1E1120F2/12/381b4a1d/XamlReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="334" column="6" selection-start-line="334" selection-start-column="6" selection-end-line="334" selection-end-column="6" />
+          <folding>
+            <marker date="1575205632641" expanded="true" signature="0:373" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1575205632641" expanded="false" signature="381:789" ph="..." />
+            <marker date="1575205632641" expanded="true" signature="822:33571" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="827:1009" ph="///   Считывает входные данные XAML и создает граф объекта с помощью средства чтения XAML WPF по умолчанию и связ ... " />
+            <marker date="1575205632641" expanded="true" signature="1035:33569" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="2168:2506" ph="///   Считывает входные данные XAML в заданную текстовую строку и возвращает объект, соответствующий корню указан ... " />
+            <marker date="1575205632641" expanded="true" signature="2554:2655" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="2661:3196" ph="///   Считывает разметку XAML в заданную текстовую строку (с помощью указанного &lt;see cref=&quot;T:System.Windows.Marku ... " />
+            <marker date="1575205632641" expanded="true" signature="3273:3394" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="3400:3912" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает &lt;see cref=&quot;T:Syste ... " />
+            <marker date="1575205632641" expanded="true" signature="3957:4113" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="4119:4725" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.Xml.XmlReader&quot; /&gt; и возвращает объект, которы ... " />
+            <marker date="1575205632641" expanded="true" signature="4773:4956" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="4962:5764" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает объект, который яв ... " />
+            <marker date="1575205632641" expanded="true" signature="5838:6072" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="6078:6808" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает корневой объект со ... " />
+            <marker date="1575205632641" expanded="true" signature="6851:7172" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="7178:7955" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.Xml.XmlReader&quot; /&gt; и возвращает корневой объек ... " />
+            <marker date="1575205632641" expanded="true" signature="8001:8156" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="8162:9020" ph="///   Считывает входные данные XAML в указанном &lt;see cref=&quot;T:System.IO.Stream&quot; /&gt; и возвращает корневой объект со ... " />
+            <marker date="1575205632641" expanded="true" signature="9092:9634" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="9555:9611" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="9708:9960" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="10037:15393" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="10967:14470" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="11400:12025" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="11435:11565" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="13133:14462" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="13416:13607" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="13681:14194" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="13716:13831" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="13859:14182" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="14272:14350" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="14371:14452" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="14497:14728" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="14871:15184" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="15461:15541" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="15633:15705" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="15828:17281" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="15964:16583" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="16387:16539" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="16613:16827" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="16856:17064" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="17307:17367" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="17420:17637" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="17676:17769" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="17835:17888" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="17938:20317" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="17954:19649" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="18721:19641" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="19052:19416" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="19685:19748" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="19775:20065" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="20079:20311" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="20356:20938" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="20504:20680" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="20944:21090" ph="///   Прерывает текущую операцию асинхронной загрузки, если имеется отложенная асинхронная операция загрузки. ... " />
+            <marker date="1575205632641" expanded="true" signature="21120:21167" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="21173:21271" ph="///   Происходит по завершении асинхронной операции загрузки. ... " />
+            <marker date="1575205632641" expanded="true" signature="21405:21558" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="21462:21551" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="21679:22211" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="21814:22170" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="22293:22497" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="22568:22767" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="22844:22975" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="22902:22968" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="23047:23137" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="23063:23131" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="23211:23332" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="23227:23326" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="23338:23747" ph="///   Возвращает &lt;see cref=&quot;T:System.Xaml.XamlSchemaContext&quot; /&gt; представляющий параметры контекста схемы WPF для  ... " />
+            <marker date="1575205632641" expanded="true" signature="23805:23887" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="24014:24418" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="24508:24717" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="24841:24924" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="25085:27097" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="25613:26539" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="26566:26797" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="26811:27074" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="27194:28324" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="28330:28965" ph="///   Считывает входные данные XAML через предоставленный &lt;see cref=&quot;T:System.Xaml.XamlReader&quot; /&gt; и возвращает об ... " />
+            <marker date="1575205632641" expanded="true" signature="29026:29789" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="29159:29235" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="29262:29521" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="29535:29766" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="29977:32836" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="30300:32433" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="31132:31414" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="31156:31268" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="31299:31404" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="31447:31932" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="31630:31831" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="31849:31922" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="32447:32813" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="32880:33059" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="33132:33295" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="33221:33287" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="33390:33565" ph="{...}" />
+            <marker date="1575205632641" expanded="true" signature="33479:33545" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Point.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="80">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
             <marker date="1575224072855" expanded="true" signature="6:47" ph="..." />
             <marker date="1575224072855" expanded="true" signature="74:350" ph="{...}" />
@@ -825,69 +1154,307 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Triangle.cs">
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Voronoi.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="91" column="31" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
+        <state relative-caret-position="32">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding>
-            <marker date="1575235994980" expanded="true" signature="6:105" ph="..." />
-            <marker date="1575235994980" expanded="true" signature="132:3551" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="160:3549" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="384:977" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="410:967" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="530:918" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="619:847" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="720:825" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="1053:1629" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="1124:1266" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="1283:1425" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="1672:2520" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="2230:2304" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="2612:2808" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="2866:3182" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="2963:3126" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="3033:3112" ph="{...}" />
-            <marker date="1575235994980" expanded="true" signature="3304:3543" ph="{...}" />
+            <marker date="1575416508198" expanded="true" signature="60:620" ph="{...}" />
+            <marker date="1575416508198" expanded="true" signature="87:618" ph="{...}" />
+            <marker date="1575416508198" expanded="true" signature="184:612" ph="{...}" />
+            <marker date="1575416508198" expanded="true" signature="298:568" ph="{...}" />
+            <marker date="1575416508198" expanded="true" signature="387:554" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Voronoi.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/b0/342fa17c/Random.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="496">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/ConcurrentHashSet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
           <folding>
-            <marker date="1575224072858" expanded="true" signature="60:620" ph="{...}" />
-            <marker date="1575224072858" expanded="true" signature="87:618" ph="{...}" />
-            <marker date="1575224072858" expanded="true" signature="184:612" ph="{...}" />
-            <marker date="1575224072858" expanded="true" signature="298:568" ph="{...}" />
-            <marker date="1575224072858" expanded="true" signature="387:554" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="6:123" ph="..." />
+            <marker date="1575416136951" expanded="true" signature="129:483" ph="/// Represents a thread-safe hash-based unique collection. ... " />
+            <marker date="1575416136951" expanded="true" signature="603:30385" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="948:1398" ph="/// Gets the number of items contained in the &lt;see ... " />
+            <marker date="1575416136951" expanded="true" signature="1423:1989" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="1449:1979" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="1553:1822" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="1702:1804" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="1846:1934" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="1999:2246" ph="/// Gets a value that indicates whether the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; is empty. ... " />
+            <marker date="1575416136951" expanded="true" signature="2274:2902" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="2300:2892" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="2373:2736" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="2522:2718" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="2602:2696" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="2760:2848" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="2912:3204" ph="/// Initializes a new instance of the &lt;see ... " />
+            <marker date="1575416136951" expanded="true" signature="3312:3332" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="3342:4214" ph="/// Initializes a new instance of the &lt;see ... " />
+            <marker date="1575416136951" expanded="true" signature="4343:4363" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="4373:5082" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+            <marker date="1575416136951" expanded="true" signature="5179:5199" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="5209:5676" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+            <marker date="1575416136951" expanded="true" signature="5817:5837" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="5847:6822" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+            <marker date="1575416136951" expanded="true" signature="6942:7102" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="7113:8359" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;  ... " />
+            <marker date="1575416136951" expanded="true" signature="8543:8703" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="8713:9741" ph="/// Initializes a new instance of the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; ... " />
+            <marker date="1575416136951" expanded="true" signature="9905:9925" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="10047:11037" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="10261:10406" ph="/* The capacity should be at least as large as the concurrency level. Otherwise, we would have locks that don't g ... */" />
+            <marker date="1575416136951" expanded="true" signature="10451:10524" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="10630:10699" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="11047:11518" ph="/// Adds the specified item to the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;. ... " />
+            <marker date="1575416136951" expanded="true" signature="11629:11740" ph="/// Removes all items from the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;. ... " />
+            <marker date="1575416136951" expanded="true" signature="11768:12267" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="11829:12161" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="12181:12257" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="12277:12640" ph="/// Determines whether the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt; contains the specified ... " />
+            <marker date="1575416136951" expanded="true" signature="12677:13513" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="12982:13141" ph="/* We can get away w/out a lock here. ... */" />
+            <marker date="1575416136951" expanded="true" signature="13249:13476" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="13353:13422" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="13523:13794" ph="/// Attempts to remove the item from the &lt;see cref=&quot;ConcurrentHashSet{T}&quot;/&gt;. ... " />
+            <marker date="1575416136951" expanded="true" signature="13832:15493" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="13923:15483" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="14184:14328" ph="/* If the table just got resized, we may not be holding the right lock, and must retry. ... */" />
+            <marker date="1575416136951" expanded="true" signature="14371:14449" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="14598:15420" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="14844:15354" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="14920:15072" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="15105:15227" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="15572:16200" ph="///Returns an enumerator that iterates through the &lt;see ... " />
+            <marker date="1575416136951" expanded="true" signature="16246:16752" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="16353:16742" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="16601:16728" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="16920:17982" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="17152:17876" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="17328:17418" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="17541:17813" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="17896:17972" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="18120:18416" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="18175:18274" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="18305:18406" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="18490:21643" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="18525:21633" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="18805:20733" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="18958:19102" ph="/* If the table just got resized, we may not be holding the right lock, and must retry. ... */" />
+            <marker date="1575416136951" expanded="true" signature="19145:19223" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="19431:19834" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="19674:19768" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="20184:20562" ph="/* If the number of elements guarded by this lock has exceeded the budget, resize the bucket table. ... */" />
+            <marker date="1575416136951" expanded="true" signature="20625:20715" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="20757:20888" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="20906:21479" ph="/* The fact that we got here means that we just performed an insertion. If necessary, we will grow the table. ... */" />
+            <marker date="1575416136951" expanded="true" signature="21514:21589" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="21712:21894" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="22022:22276" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="22323:27773" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="22435:27609" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="22734:23092" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="22773:23046" ph="/* We assume that since the table reference is different, it was already resized (or the budget ... */" />
+            <marker date="1575416136951" expanded="true" signature="23310:23405" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="23423:23545" ph="/* If the bucket array is too empty, double the budget instead of resizing the table ... */" />
+            <marker date="1575416136951" expanded="true" signature="23606:23842" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="23704:23796" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="23860:24077" ph="/* Compute the new table size. We find the smallest integer larger than twice the previous table size, and not di ... */" />
+            <marker date="1575416136951" expanded="true" signature="24179:25027" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="24449:24574" ph="/* Now, we only need to check odd integers, and find the first that is not divisible ... */" />
+            <marker date="1575416136951" expanded="true" signature="24669:24765" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="24881:24987" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="25069:25151" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="25191:25756" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="25279:25694" ph="/* We want to make sure that GrowTable will not be called again, since table is at the maximum size. ... */" />
+            <marker date="1575416136951" expanded="true" signature="26047:26410" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="26296:26392" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="26681:27347" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="26796:27329" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="27629:27763" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="27834:28221" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="27946:28076" ph="/* Now that we have lock 0, the _locks array will not change (i.e., grow), ... */" />
+            <marker date="1575416136951" expanded="true" signature="28315:28856" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="28483:28846" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="28556:28652" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="28676:28832" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="28729:28814" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="28927:29142" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="29056:29132" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="29198:29627" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="29304:29617" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="29406:29603" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="29657:30032" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="29883:30022" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="30060:30379" ph="{...}" />
+            <marker date="1575416136951" expanded="true" signature="30246:30369" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HappyUnity/Assets/HappyUnity/Math/HappyMath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="91" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+          <folding>
+            <marker date="1575478943736" expanded="true" signature="0:5216" ph="&lt;&lt;Canvas x:Name=&quot;Canvas&quot; Margin=&quot;0,0,4,-19&quot; Height=&quot;641&quot; VerticalAlignment=&quot;Bottom&quot; &gt;&#10;        &lt;Canvas x:Name=&quot;FieldCanvas&quot; Height=&quot;631&quot; Canvas.Left=&quot;105&quot; Width=&quot;598&quot;&gt;&#10;            &lt;lcub:LightningChartUltimate RenderTransformOrigin=&quot;0.003,0.991&quot; Height=&quot;600&quot; Width=&quot;600&quot; ColorTheme=&quot;SkyBlue&quot; Foreground=&quot;White&quot; Background=&quot;White&quot;&gt;&#10;                &lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt;&#10;                &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt;&#10;                &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;&#10;            &lt;/lcub:LightningChartUltimate&gt;&#10;        &lt;/Canvas&gt;&#10;        &lt;ListBox Height=&quot;215&quot; Width=&quot;105&quot; RenderTransformOrigin=&quot;0,0&quot; Background=&quot;Black&quot; Canvas.Top=&quot;30&quot;&gt;&#10;            &lt;ListBox.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/ListBox.RenderTransform&gt;&#10;            &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Button x:Name=&quot;Clear&quot; Content=&quot;Clear&quot; Width=&quot;75&quot; Click=&quot;Clear_Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Grid Width=&quot;74&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;&#10;                &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt;&#10;                &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt;&#10;                &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;TextBox Height=&quot;23&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;TextBox&quot; Width=&quot;75&quot;/&gt;&#10;            &lt;ComboBox Width=&quot;75&quot; SelectionChanged=&quot;ComboBox_Selected&quot;&gt;&#10;&#10;                &lt;TextBlock&gt;Guassian&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Random&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;&#10;            &lt;/ComboBox&gt;&#10;        &lt;/ListBox&gt;&#10;    &lt;/Canvas&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="663:5206" ph="&lt;&lt;Canvas x:Name=&quot;FieldCanvas&quot; Height=&quot;631&quot; Canvas.Left=&quot;105&quot; Width=&quot;598&quot;&gt;&#10;            &lt;lcub:LightningChartUltimate RenderTransformOrigin=&quot;0.003,0.991&quot; Height=&quot;600&quot; Width=&quot;600&quot; ColorTheme=&quot;SkyBlue&quot; Foreground=&quot;White&quot; Background=&quot;White&quot;&gt;&#10;                &lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt;&#10;                &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt;&#10;                &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;&#10;            &lt;/lcub:LightningChartUltimate&gt;&#10;        &lt;/Canvas&gt; &lt;ListBox Height=&quot;215&quot; Width=&quot;105&quot; RenderTransformOrigin=&quot;0,0&quot; Background=&quot;Black&quot; Canvas.Top=&quot;30&quot;&gt;&#10;            &lt;ListBox.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/ListBox.RenderTransform&gt;&#10;            &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Button x:Name=&quot;Clear&quot; Content=&quot;Clear&quot; Width=&quot;75&quot; Click=&quot;Clear_Click&quot; Height=&quot;20&quot;/&gt;&#10;            &lt;Grid Width=&quot;74&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;&#10;                &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt;&#10;                &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt;&#10;                &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;TextBox Height=&quot;23&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;TextBox&quot; Width=&quot;75&quot;/&gt;&#10;            &lt;ComboBox Width=&quot;75&quot; SelectionChanged=&quot;ComboBox_Selected&quot;&gt;&#10;&#10;                &lt;TextBlock&gt;Guassian&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Random&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;&#10;            &lt;/ComboBox&gt;&#10;        &lt;/ListBox&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="756:3689" ph="&lt;&lt;lcub:LightningChartUltimate RenderTransformOrigin=&quot;0.003,0.991&quot; Height=&quot;600&quot; Width=&quot;600&quot; ColorTheme=&quot;SkyBlue&quot; Foreground=&quot;White&quot; Background=&quot;White&quot;&gt;&#10;                &lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt;&#10;                &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt;&#10;                &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt;&#10;                &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;&#10;            &lt;/lcub:LightningChartUltimate&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="841:3671" ph="&lt;&lt;lcub:LightningChartUltimate.Options&gt;&#10;                    &lt;lcub:ChartOptions/&gt;&#10;                &lt;/lcub:LightningChartUltimate.Options&gt; &lt;lcub:LightningChartUltimate.View3D&gt;&#10;                    &lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;&#10;                &lt;/lcub:LightningChartUltimate.View3D&gt; &lt;lcub:LightningChartUltimate.ChartBackground&gt;&#10;                    &lt;lcub:Fill/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ChartBackground&gt; &lt;lcub:LightningChartUltimate.ViewPolar&gt;&#10;                    &lt;lcub:ViewPolar/&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewPolar&gt; &lt;lcub:LightningChartUltimate.ViewXY&gt;&#10;                    &lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;&#10;                &lt;/lcub:LightningChartUltimate.ViewXY&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1007:1140" ph="&lt;&lt;lcub:ChartOptions/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1157:2439" ph="&lt;&lt;lcub:View3D&gt;&#10;                        &lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt;&#10;                        &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt;&#10;                        &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt;&#10;                        &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt;&#10;                        &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt;&#10;                        &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt;&#10;                        &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;&#10;                    &lt;/lcub:View3D&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1214:2385" ph="&lt;&lt;lcub:View3D.WallOnFront&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnFront&gt; &lt;lcub:View3D.WallOnBack&gt;&#10;                            &lt;lcub:WallXY Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBack&gt; &lt;lcub:View3D.WallOnBottom&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnBottom&gt; &lt;lcub:View3D.WallOnLeft&gt;&#10;                            &lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnLeft&gt; &lt;lcub:View3D.WallOnTop&gt;&#10;                            &lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnTop&gt; &lt;lcub:View3D.WallOnRight&gt;&#10;                            &lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;&#10;                        &lt;/lcub:View3D.WallOnRight&gt; &lt;lcub:View3D.Border&gt;&#10;                            &lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;&#10;                        &lt;/lcub:View3D.Border&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1252:1387" ph="&lt;&lt;lcub:WallXY Visible=&quot;False&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1412:1545" ph="&lt;&lt;lcub:WallXY Visible=&quot;False&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1570:1707" ph="&lt;&lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1732:1865" ph="&lt;&lt;lcub:WallYZ Visible=&quot;False&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="1890:2021" ph="&lt;&lt;lcub:WallXZ Visible=&quot;False&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2046:2198" ph="&lt;&lt;lcub:WallYZ AutoHide=&quot;False&quot; Visible=&quot;False&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2223:2350" ph="&lt;&lt;lcub:ThinBorder Color=&quot;White&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2456:2597" ph="&lt;&lt;lcub:Fill/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2614:2748" ph="&lt;&lt;lcub:ViewPolar/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2765:3628" ph="&lt;&lt;lcub:ViewXY Margins=&quot;300&quot;&gt;&#10;                        &lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt;&#10;                        &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt;&#10;                        &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;&#10;                    &lt;/lcub:ViewXY&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2822:3574" ph="&lt;&lt;lcub:ViewXY.ZoomPanOptions&gt;&#10;                            &lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;&#10;                        &lt;/lcub:ViewXY.ZoomPanOptions&gt; &lt;lcub:ViewXY.YAxes&gt;&#10;                            &lt;lcub:AxisY/&gt;&#10;                        &lt;/lcub:ViewXY.YAxes&gt; &lt;lcub:ViewXY.XAxes&gt;&#10;                            &lt;lcub:AxisX/&gt;&#10;                        &lt;/lcub:ViewXY.XAxes&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2874:3277" ph="&lt;&lt;lcub:ZoomPanOptions&gt;&#10;                                &lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;&#10;                            &lt;/lcub:ZoomPanOptions&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2931:3223" ph="&lt;&lt;lcub:ZoomPanOptions.AutoYFit&gt;&#10;                                    &lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;&#10;                                &lt;/lcub:ZoomPanOptions.AutoYFit&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="2985:3172" ph="&lt;&lt;lcub:AutoYFit TargetAllYAxes=&quot;False&quot; Thorough=&quot;False&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="3302:3408" ph="&lt;&lt;lcub:AxisY/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="3433:3539" ph="&lt;&lt;lcub:AxisX/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="3698:5192" ph="&lt;&lt;ListBox.RenderTransform&gt;&#10;                &lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;&#10;            &lt;/ListBox.RenderTransform&gt; &lt;Button x:Name=&quot;Rebuild_&quot; Content=&quot;Rebuild&quot; Width=&quot;75&quot; Click=&quot;Rebuild__Click&quot; Height=&quot;20&quot;/&gt; &lt;Button x:Name=&quot;Clear&quot; Content=&quot;Clear&quot; Width=&quot;75&quot; Click=&quot;Clear_Click&quot; Height=&quot;20&quot;/&gt; &lt;Grid Width=&quot;74&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;&#10;                &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt;&#10;                &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt;&#10;                &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;&#10;            &lt;/Grid&gt; &lt;TextBox Height=&quot;23&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;TextBox&quot; Width=&quot;75&quot;/&gt; &lt;ComboBox Width=&quot;75&quot; SelectionChanged=&quot;ComboBox_Selected&quot;&gt;&#10;&#10;                &lt;TextBlock&gt;Guassian&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Random&lt;/TextBlock&gt;&#10;                &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;&#10;            &lt;/ComboBox&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="3808:4122" ph="&lt;&lt;TransformGroup&gt;&#10;                    &lt;ScaleTransform/&gt;&#10;                    &lt;SkewTransform AngleX=&quot;0&quot;/&gt;&#10;                    &lt;RotateTransform Angle=&quot;0&quot;/&gt;&#10;                    &lt;TranslateTransform X=&quot;0&quot;/&gt;&#10;                &lt;/TransformGroup&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="3850:4083" ph="&lt;&lt;ScaleTransform/&gt; &lt;SkewTransform AngleX=&quot;0&quot;/&gt; &lt;RotateTransform Angle=&quot;0&quot;/&gt; &lt;TranslateTransform X=&quot;0&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="4335:4856" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                &lt;/Grid.RowDefinitions&gt; &lt;Label Content=&quot;Число точек&quot; Margin=&quot;5&quot; Foreground=&quot;White&quot; FontSize=&quot;9&quot;/&gt; &lt;TextBox Grid.Row=&quot;1&quot; Name=&quot;PointsCountTextBox&quot; Margin=&quot;5&quot;/&gt; &lt;Button Grid.Row=&quot;2&quot; Content=&quot;OK&quot; Click =&quot;PointsApply_Click&quot;  Margin=&quot;5&quot;/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="4369:4577" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition/&gt; &lt;RowDefinition/&gt; &lt;RowDefinition/&gt;.../&gt;" />
+            <marker date="1575478943736" expanded="true" signature="4950:5173" ph="&lt;&lt;TextBlock&gt;Guassian&lt;/TextBlock&gt; &lt;TextBlock&gt;Random&lt;/TextBlock&gt; &lt;TextBlock&gt;Circle&lt;/TextBlock&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2ECD3F11-D027-42CB-A32F-58723999A994/0b/bdca6637/Enum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="1391" column="26" lean-forward="true" selection-start-line="1391" selection-start-column="26" selection-end-line="1391" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Triangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <marker date="1575285313075" expanded="false" signature="6:105" ph="..." />
+            <marker date="1575285313075" expanded="true" signature="132:3498" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="160:3496" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="384:924" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="410:914" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="530:865" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="619:847" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="720:825" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="1000:1576" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="1071:1213" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="1230:1372" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="1619:2467" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="2177:2251" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="2559:2755" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="2813:3129" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="2910:3073" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="2980:3059" ph="{...}" />
+            <marker date="1575285313075" expanded="true" signature="3251:3490" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="206" column="1" lean-forward="true" selection-start-line="206" selection-start-column="1" selection-end-line="206" selection-end-column="1" />
+          <folding>
+            <marker date="1575479168840" expanded="true" signature="6:658" ph="..." />
+            <marker date="1575479168840" expanded="true" signature="685:6914" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="718:779" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="824:6912" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="1186:1366" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="1409:2105" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="2181:2894" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="2405:2696" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="2486:2680" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="2961:4416" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="3345:3603" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="3426:3587" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="3972:4270" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="4510:5775" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="4857:5128" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="5169:5460" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="5250:5444" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="5846:6162" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="5929:6116" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="6231:6511" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="6314:6501" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="6585:6667" ph="{...}" />
+            <marker date="1575479168840" expanded="true" signature="6751:6906" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/RandomGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+          <folding>
+            <marker date="1575489709932" expanded="true" signature="6:111" ph="..." />
+            <marker date="1575489709932" expanded="true" signature="131:1257" ph="{...}" />
+            <marker date="1575489709932" expanded="true" signature="174:1250" ph="{...}" />
+            <marker date="1575489709932" expanded="true" signature="270:590" ph="{...}" />
+            <marker date="1575489709932" expanded="true" signature="726:795" ph="{...}" />
+            <marker date="1575489709932" expanded="true" signature="804:918" ph="/// Generates a random point inside the circle with specified radius. ... " />
+            <marker date="1575489709932" expanded="true" signature="989:1243" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DelaunayVoronoi/Delaunay.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="230">
+          <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
           <folding>
-            <marker date="1575280358541" expanded="true" signature="6:225" ph="..." />
-            <marker date="1575280358541" expanded="true" signature="252:4101" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="292:4099" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="484:1358" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="1123:1320" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="1428:2549" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="1611:2481" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="1808:2145" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="1944:2127" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="2201:2410" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="2281:2392" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="2625:3181" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="2751:3022" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="3231:3670" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="3254:3349" ph="/* 1  -&gt; maxX ... */" />
-            <marker date="1575280358541" expanded="true" signature="3883:4093" ph="{...}" />
-            <marker date="1575280358541" expanded="true" signature="3941:4083" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="6:280" ph="..." />
+            <marker date="1575489742321" expanded="true" signature="307:5288" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="347:5286" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="641:2526" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="1259:2488" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="1376:1678" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="1806:2043" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="2171:2317" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="2596:3731" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="2793:3663" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="2990:3327" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="3126:3309" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="3383:3592" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="3463:3574" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="3807:4363" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="3933:4204" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="4413:4852" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="4436:4531" ph="/* 1  -&gt; maxX ... */" />
+            <marker date="1575489742321" expanded="true" signature="5070:5280" ph="{...}" />
+            <marker date="1575489742321" expanded="true" signature="5128:5270" ph="{...}" />
           </folding>
         </state>
       </provider>

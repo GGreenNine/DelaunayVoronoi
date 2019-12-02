@@ -7,12 +7,14 @@
         <e p="App.xaml" t="Include" />
         <e p="App.xaml.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="ConcurrentHashSet.cs" t="Include" />
         <e p="Delaunay.cs" t="Include" />
         <e p="DelaunayVoronoi.csproj" t="IncludeRecursive" />
         <e p="Edge.cs" t="Include" />
         <e p="MainWindow.xaml" t="Include" />
         <e p="MainWindow.xaml.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="ObjectPool.cs" t="Include" />
         <e p="packages.config" t="Include" />
         <e p="Point.cs" t="Include" />
         <e p="Properties" t="Include">
@@ -22,6 +24,7 @@
           <e p="Settings.Designer.cs" t="Include" />
           <e p="Settings.settings" t="Include" />
         </e>
+        <e p="RandomGenerator.cs" t="Include" />
         <e p="Triangle.cs" t="Include" />
         <e p="Voronoi.cs" t="Include" />
       </e>

@@ -26,8 +26,6 @@ namespace DelaunayVoronoi
                             neighbors.Add(triangle);
                         }
                     }
-
-                    neighbors.UnionWith(neighbors);
                 }
 
                 return neighbors;

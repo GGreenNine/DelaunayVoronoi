@@ -3,9 +3,11 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Windows.Documents;
 using BenchmarkDotNet.Attributes;
 using System.Threading.Tasks;
+using Delaunay;
 
 namespace DelaunayVoronoi
 {
@@ -14,9 +16,12 @@ namespace DelaunayVoronoi
         private double MaxX;
         private double MaxY;
 
+        private Triangle tri1;
+        private Triangle tri2;
+        
         private IEnumerable<Triangle> border;
 
-        public List<Point> GeneratePoints(int amount, double maxX, double maxY)
+        public List<Point> GeneratePoints(int amount, double maxX, double maxY, GenerationType generationType)
         {
             MaxX = maxX;
             MaxY = maxY;
@@ -29,18 +34,41 @@ namespace DelaunayVoronoi
 
             var points = new List<Point>(amount + 1) {point0, point1, point2, point3};
 
-            var tri1 = new Triangle(point0, point1, point2);
-            var tri2 = new Triangle(point0, point2, point3);
+            tri1 = new Triangle(point0, point1, point2);
+            tri2 = new Triangle(point0, point2, point3);
 
             border = new List<Triangle>() {tri1, tri2};
 
             var random = new Random();
 
-            for (int i = 0; i < amount - 4; i++)
+            switch (generationType)
             {
-                var pointX = random.NextDouble() * MaxX;
-                var pointY = random.NextDouble() * MaxY;
-                points.Add(new Point(pointX, pointY));
+                case GenerationType.Guassian:
+                    for (int i = 0; i < amount - 4; i++)
+                    {
+                        var pointXG = Math.Abs(random.NextGaussian(0,0.3f) * MaxX);
+                        var pointYG = Math.Abs(random.NextGaussian(0,0.3f) * MaxY);
+                        
+                        points.Add(new Point(pointXG, pointYG));
+                    }
+                    break;
+                case GenerationType.Random:
+                    for (int i = 0; i < amount - 4; i++)
+                    {
+                        var pointX = random.NextDouble() * MaxX;
+                        var pointY = random.NextDouble() * MaxY;
+                        points.Add(new Point(pointX, pointY));
+                    }
+                    break;
+                case GenerationType.Circle:
+                    for (int i = 0; i < amount - 4; i++)
+                    {
+                        var point = random.InCircle(1500);
+                        points.Add(point);
+                    }
+                    break;
+                default:
+                    throw new ArgumentOutOfRangeException(nameof(generationType), generationType, null);
             }
 
             return points;
@@ -52,7 +80,7 @@ namespace DelaunayVoronoi
 
             Stopwatch s = new Stopwatch();
             s.Start();
-
+//            
             foreach (var point in points)
             {
                 var badTriangles = new List<Triangle>();
@@ -113,10 +141,10 @@ namespace DelaunayVoronoi
             var point3 = new Point(2 * MaxX + MaxY + margin, 2 * MaxY + margin);
             return new Triangle(point1, point2, point3);
         }
-
+        
         private void FindBadTriangles(in  Point             point,
                                       in  HashSet<Triangle> triangles,
-                                      ref List<Triangle>    badTriangles)
+                                      ref List<Triangle> badTriangles)
         {
             foreach (var triangle in triangles)
             {
